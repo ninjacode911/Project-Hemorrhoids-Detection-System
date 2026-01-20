@@ -14,7 +14,8 @@ license: mit
 
 #  HDS - Hemorrhoids Detection System
 
-Real-time AI-powered hemorrhoids detection running **entirely in your browser**.
+Real-time AI-powered hemorrhoids detection running **entirely in your browser**. 
+Try it out here : <a href="https://hdfs.vercel.app/" target="_blank">HDFS</a>
 
 ## Features
 - **Zero latency** - Uses WebGPU for GPU-accelerated inference
