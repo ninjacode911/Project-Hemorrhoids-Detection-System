@@ -42,5 +42,16 @@ Try it out here : <a href="https://hdfs.vercel.app/" target="_blank">HDFS</a>
 | Firefox | WASM | 5-10 FPS |
 | Safari | WASM | 5-10 FPS |
 
+
+## Demo Images
+<div align="center">
+
+<img width="100%" alt="GHBanner" src="https://github.com/ninjacode911/Project-Hemorrhoids-Detection-System/blob/main/Demo%20Image%201" />
+ 
+<div align="center">
+
+<img width="100%" alt="GHBanner" src="https://github.com/ninjacode911/Project-Hemorrhoids-Detection-System/blob/main/Demo%20Image%202" />
+
+
 ## Disclaimer
 This tool is for educational and research purposes only. It is NOT a substitute for professional medical diagnosis. Always consult a qualified healthcare provider.The tool is intended to be used by doctors practicing proctology.
