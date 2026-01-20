@@ -8,6 +8,10 @@ pinned: false
 license: mit
 ---
 
+<div align="center">
+
+<img width="100%" alt="GHBanner" src="https://github.com/ninjacode911/Github/raw/main/NAVNIT%20background.png" />
+
 #  HDS - Hemorrhoids Detection System
 
 Real-time AI-powered hemorrhoids detection running **entirely in your browser**.
