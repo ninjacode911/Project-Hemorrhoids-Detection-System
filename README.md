@@ -14,16 +14,6 @@ Currently deployed at **Healing Hands Clinic**, India's top proctology clinic.
 
 ---
 
-## Features
-
-- **Real-time detection** — Live camera feed with bounding box overlays at ~1-2 FPS inference
-- **Privacy first** — All AI processing happens locally in the browser. No patient images are sent to any server
-- **9 detection classes** — Grade I, Grade II, Grade III, Grade IV, External Thrombosis, Fissure, Polyp, Skin Tag, Normal
-- **AI-generated reports** — PDF reports with Gemini AI narrative, embedded screenshots, and clinical recommendations
-- **HMS integration** — Connects with Hospital Management Systems via URL parameters and webhook callbacks
-- **Doctor's override** — Physicians can manually select findings that take priority over AI detections
-- **Cross-platform** — Works on any modern browser with camera access
-
 ## How It Works
 
 1. Click **"Start Session"** to enable the camera
@@ -31,20 +21,6 @@ Currently deployed at **Healing Hands Clinic**, India's top proctology clinic.
 3. Use **Screenshot** or **Recording** to capture findings during the examination
 4. The doctor can add or override findings using the **Doctor's Detection** panel
 5. Click **"Generate PDF Report"** for an AI-assisted clinical report
-
-## Technology
-
-| Component | Technology |
-|-----------|-----------|
-| **AI Model** | YOLOv11 (custom trained on hemorrhoid dataset) |
-| **Inference** | ONNX Runtime Web (WebAssembly) — runs entirely in-browser |
-| **Frontend** | Vanilla JavaScript + Vite |
-| **Reports** | Google Gemini API + jsPDF |
-| **Deployment** | Vercel |
-
-## Architecture
-
-The system uses the **Xenova pattern** — the camera feed plays at 60 FPS via hardware-decoded `<video>`, while AI inference runs at ~1-2 FPS in a separate **Web Worker** thread. This keeps the UI fully responsive while the model processes frames in the background. Bounding boxes are CSS-positioned `<div>` overlays that auto-scale with the video container.
 
 ## Demo
 
