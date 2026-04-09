@@ -1,21 +1,63 @@
-MIT License
+PROPRIETARY SOFTWARE LICENSE
+============================
 
-Copyright (c) 2026 Navnit
+Copyright (c) 2025-2026 Navnit (ninjacode911). All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software, including but not limited to all source code, object code,
+documentation, configuration files, trained machine learning models (*.onnx),
+model training data, training pipelines, model configuration files, and any
+associated assets (collectively, the "Software"), is the exclusive
+intellectual property of Navnit (ninjacode911).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+RESTRICTIONS
+------------
+
+Unless you have received explicit prior written permission from the copyright
+holder, you may NOT:
+
+  1. Copy, reproduce, or duplicate the Software or any portion thereof.
+  2. Modify, adapt, translate, or create derivative works based on the Software.
+  3. Distribute, publish, sublicense, sell, lease, or otherwise transfer the
+     Software to any third party.
+  4. Reverse-engineer, decompile, disassemble, or otherwise attempt to derive
+     the source code or underlying algorithms of the Software.
+  5. Use the Software, in whole or in part, for any commercial or non-commercial
+     purpose.
+  6. Remove, alter, or obscure any copyright, trademark, or other proprietary
+     notices contained in the Software.
+  7. Use the trained machine learning models or training data for any purpose,
+     including but not limited to training, fine-tuning, distillation, or
+     inference in other systems.
+
+PERMITTED USE
+-------------
+
+Only the copyright holder (Navnit / ninjacode911) and individuals or entities
+who have received explicit written authorization from the copyright holder may
+access, use, modify, or deploy the Software.
+
+NO WARRANTY
+-----------
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+ENFORCEMENT
+-----------
+
+Any unauthorized use, reproduction, or distribution of the Software may
+result in civil and criminal penalties under applicable intellectual property
+laws, including but not limited to the Indian Copyright Act 1957, the
+Information Technology Act 2000, and international copyright treaties.
+
+CONTACT
+-------
+
+For licensing inquiries or permission requests:
+  GitHub:  github.com/ninjacode911
+
+This license is effective as of January 1, 2025 and applies to all versions
+of the Software.
