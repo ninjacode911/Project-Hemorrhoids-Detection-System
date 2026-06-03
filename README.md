@@ -47,6 +47,6 @@ The source code, trained machine learning models, and training data are the excl
 
 <div align="center">
 
-**Built by [ninjacode911](https://github.com/ninjacode911)**
+**Built by [ninjacode911](https://github.com/ninjacode911) and [Pratiksha Naik](https://github.com/prtksh)**
 
 </div>
