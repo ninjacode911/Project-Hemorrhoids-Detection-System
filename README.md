@@ -6,7 +6,6 @@
 
 Real-time AI-powered hemorrhoids detection running **entirely in your browser**.
 
-**Try it live:** [hdfs.vercel.app](https://hdfs.vercel.app/)
 
 Currently deployed at **Healing Hands Clinic**, India's top proctology clinic.
 
