@@ -29,7 +29,7 @@ Currently deployed at **Healing Hands Clinic**, India's top proctology clinic.
 
 <br/><br/>
 
-<img width="100%" alt="Demo Image 2" src="https://github.com/ninjacode911/Project-Hemorrhoids-Detection-System/raw/main/Demo%20Image%202" />
+<img width="100%" alt="Demo Image 2" src="https://github.com/ninjacode911/Project-Hemorrhoids-Detection-System/blob/main/Demo%20Image%202.png" />
 
 </div>
 
